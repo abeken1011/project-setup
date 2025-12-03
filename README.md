@@ -10,4 +10,6 @@ npm install -D prettier prettier-plugin-tailwindcss
 ```
 フォーマッターの設定を追加
 
+.prettierrcの内容はプロジェクトのファイルに追加済み
+
 https://tailwindcss.com/blog/automatic-class-sorting-with-prettier
